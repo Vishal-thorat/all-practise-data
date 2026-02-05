@@ -1,0 +1,3 @@
+Arithmatic Exception
+NullPointerException
+ClassCaseException
